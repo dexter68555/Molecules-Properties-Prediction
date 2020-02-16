@@ -1,3 +1,3 @@
 # Molecules-Properties-Prediction
 
-Coming Soon
+This repository is created for Molecule Properties Prediction Challenge.
